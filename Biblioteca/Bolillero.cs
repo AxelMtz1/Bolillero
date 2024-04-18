@@ -2,6 +2,7 @@ namespace Biblioteca;
 
 public class Bolillero
 {
+    private List<int> bolillasSacadas;
     private List<int> bolillas;
 
     public Bolillero(int cantidadBolillas)

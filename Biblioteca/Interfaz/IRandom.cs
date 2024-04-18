@@ -3,5 +3,5 @@ namespace Biblioteca.Interfaz;
 
 public interface IRandom
 {
-    void aleatorizar (Bolillero bolillas,)
+    void aleatorizar (Bolillero bolillas)
 }
